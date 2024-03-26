@@ -1,0 +1,14 @@
+[
+  {
+    "user": {
+      "name": "Thompson",
+      "last-name": "Simmons",
+      "year": 33,
+      "address": {
+        "city": "Matthews",
+        "street": "Gordon Russell 123"
+      }
+    },
+    "desafio": "Validar todos os campos"
+  }
+]

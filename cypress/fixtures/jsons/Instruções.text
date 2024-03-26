@@ -1,0 +1,68 @@
+                                            *DESAFIO REST JAVA*
+
+
+        Esse desafio foi criado para desafiar seu conhecimento e te ajudar a melhorar no conhecimento de Rest,
+        e principalmente em JAVA e outras linguagens como Python, JS , Ruby, depois disso, é NASA direto.
+
+
+        Dentro de casa JSON tem o desafio para ele. Leia com atenção.
+
+        Baixe o projeto, abra no intelliJ.
+
+        git clone https://github.com/JamesonBatista/defafio-java-api-rest.git
+
+        No projeto dentro de src/main/components/validacoes.java terá um método de Test para ser usado para criar as validações
+
+        Assista o vídeo explicando com um pouco mais de detalhes.
+
+        Vamos as instruções:
+
+         Ordem dos JSONs por complexidade de validação:
+
+         1 - simple-simple -> JSON nível básico --> http://demo8370198.mockable.io/
+         2 - simple        -> JSON nível básico 1 --> http://demo8168190.mockable.io/
+         3 - simple-medium -> JSON nível básico com complexidade nível 1 --> http://demo0065046.mockable.io/
+         4 - medium        -> JSON nível médico com complexidade básica --> http://demo5061470.mockable.io/
+         5 - medium-complex -> JSON nível médio com complexidade média -->  http://demo0497501.mockable.io/
+         6 - complex        -> JSON nível complexo dificuldade baixa --> http://demo4619113.mockable.io/
+         7 - complex-medium -> JSON nível complexo dificuldade média/alta --> http://demo9907628.mockable.io/
+         8 - hard-simple    -> JSON nível difícil, dificuldade baixa/média --> http://demo7233956.mockable.io/
+         9 - hard-medium    -> JSON nível difícil, dificuldade média/alta --> http://demo3696500.mockable.io/
+         10 - hard-complex  -> JSON nível difícil, dificuldade alta --> http://demo6029687.mockable.io/
+         11 - hard-hard     -> JSON nível Alto, dificuldade alta/altamente alta --> http://demo9103523.mockable.io/
+         12 - master-simple -> JSON nível altíssimo, dificuldade média --> http://demo6646528.mockable.io/
+         13 - master-medium -> JSON nível altíssimo, dificuldade média/alta --> http://demo0143361.mockable.io/
+         14 - master-complex -> JSON nível Semi-deus, dificuldade Semi-deus. --> http://demo1076512.mockable.io/
+         15 - master-master  -> JSON nível GOD, dificuldade Cavaleiros dos Zodíacos --> http://demo2491309.mockable.io/
+         16 - ultra          -> JSON nível cereja do bolo, leve e tranquilo. --> http://demo2303616.mockable.io/
+         17 - camada-pre-sal -> JSON nível Zeus, validação profunda JAMAIS vista no mercado,
+         mas que dará um conhecimento profundo sobre validação.
+         18 - camada-array-guerra-divina -> JSON praticamente impossível de vir no mercado, mas, a validação vai tornar você um expert. TENTE.
+         19 - acesso-empresarial -> é um JSON de ligação de dados, complicado, chato de validar, mas não pode deixar de fora
+         20 - credito_bancos -> JSON que demanda tempo, e planejamento da estrutura, analisando pontos de ligação entre as collections... DIFICIL....
+
+
+        Você que se sentiu desafiado, tem direito a 3 dicas por JSON que está tentando validar. :)
+
+        Palavra de incentivo: Duvido você conseguir!
+
+
+        Emails de Requisições:
+
+1 - desafio20jsons1@gmail.com -> desafio@10
+2 - desafio20jsons2@gmail.com -> ||
+3 - desafio20jsons3@gmail.com -> ||
+4 - desafio20jsons4@gmail.com -> ||
+5 - desafio20jsons5@gmail.com -> ||
+6 - desafio20jsons6@gmail.com -> ||
+7 - desafio20jsons7@gmail.com -> ||
+8 - desafio20jsons8@gmail.com -> desafio20json
+9 - desafio20jsons9@gmail.com -> ||
+10- desafio20jsons10@gmail.com ->||
+11- desafio20json11@gmail.com -> ||
+12- desafio20json12@gmail.com -> ||
+13- desafio20json13@gmail.com -> ||
+14- desafio20json14@gmail.com -> ||
+15- desafio20json15@gmail.com -> ||
+16- desafio20json16@gmail.com -> ||
+17- desafio20json17@gmail.com -> 

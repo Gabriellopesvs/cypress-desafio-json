@@ -1,0 +1,18 @@
+{
+  "user": {
+    "name": "Thompson",
+    "last-name": "Simmons",
+    "year": 33,
+    "address": {
+      "city": "Matthews",
+      "street": "Gordon Russell 123"
+    },
+    "Order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "desafio": "Validar todos os campos, inclusive, esse texto. E imprimir o Order na ordem correta."
+  }
+}

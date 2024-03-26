@@ -1,0 +1,15 @@
+{
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "projectId": "templateId",
+  "video": false,
+  "viewportWidth": 320,
+  "viewportHeight": 880,
+  "chromeWebSecurity": false,
+  "retries": 1,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "cypress/support/reporter.config.json"
+  },
+  "screenshotsFolder": "reports/mochawesome-report/assets",
+  "testFiles": "**/*.spec.js"
+}

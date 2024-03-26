@@ -1,0 +1,23 @@
+{
+  "env": {
+    "environmentRun": "QA",
+    "QA": {
+      "simplejson": "http://demo8370198.mockable.io/",
+      "simple": "http://demo8168190.mockable.io/",
+      "simplemedium": "http://demo0065046.mockable.io/",
+      "medium": "http://demo5061470.mockable.io/",
+      "mediumcomplex": "http://demo0497501.mockable.io/",
+      "complex": "http://demo4619113.mockable.io/",
+      "complexmedium": "http://demo9907628.mockable.io/",
+      "hardsimples": "http://demo7233956.mockable.io/",
+      "hardMedium": "http://demo3696500.mockable.io/",
+      "hardComplexo": "http://demo6029687.mockable.io/",
+      "hardHard": "http://demo9103523.mockable.io/",
+      "masterSimples": "http://demo6646528.mockable.io/",
+      "masterMedium": "http://demo0143361.mockable.io/",
+      "masterComplexo": "http://demo1076512.mockable.io/",
+      "masterMaster": "http://demo2491309.mockable.io/",
+      "ultra": "http://demo2303616.mockable.io/"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+  {
+  "users": [
+    {
+      "name": "Michael",
+      "last_name": "Jackson",
+      "age": 33,
+      "date_nasc": "10/07/1988"
+    },
+    {
+      "name": "Margareth",
+      "last_name": "Thatcher",
+      "age": 50,
+      "date_nasc": "10/12/1968"
+    }
+  ],
+  "address": {
+    "city": "São Paulo",
+    "street": "Avenida das Oliveiras",
+    "number": 99,
+    "UF": "SP",
+    "geo": [
+      {
+        "state": {
+          "lat": 4514.13515,
+          "long": 15132534,
+          "planet": [
+            "Earth"
+          ]
+        }
+      }
+    ],
+    "others": [
+      "AP401"
+    ]
+  },
+  "Content-Type": "application/json",
+  "desafio": "Validar todos os campos, Contar quantidade de usuários dentro de USERS, validar o valor de street dentro de address, dentro de geo validar o long e o valor de planet, validar o valor de others"
+}

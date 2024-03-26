@@ -1,0 +1,67 @@
+[
+  {
+    "users": [
+      {
+        "name": "Wood",
+        "year": 33,
+        "color": "red"
+      },
+      {
+        "name": "Scott",
+        "year": 28,
+        "color": "blue"
+      },
+      {
+        "name": "Griffin",
+        "year": 31,
+        "color": "pink"
+      },
+      {
+        "name": "Stephens",
+        "year": 30,
+        "color": "black"
+      },
+      {
+        "name": "Hawkins",
+        "year": 47,
+        "color": "white"
+      }
+    ],
+    "products": [
+      {
+        "car": "Dynamo",
+        "color": "red"
+      },
+      {
+        "car": "Elysium",
+        "color": "blue"
+      },
+      {
+        "car": "Dynamics",
+        "color": "pink"
+      },
+      {
+        "car": "Fang",
+        "color": "black"
+      },
+      {
+        "car": "Prospect",
+        "color": "white"
+      }
+    ],
+    "registration": {
+      "base": [
+        {
+          "sul": {
+            "street": "Lago Woolf"
+          },
+          "north": {
+            "street": "Northland"
+          }
+        }
+      ],
+      "ceo": "Michael Corbin"
+    },
+    "desafio": "Imprimir list de usuário com idade e o carro de acordo com a cor, exe: Sou Wood tenho 33 anos e tenho um Dynamo. Fazer isso para Todos. Validar os endereços da Loja e o ceo.  E imprimir o valor final do registration, ex: O street do norte é: Northland"
+  }
+]

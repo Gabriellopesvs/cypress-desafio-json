@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Wood",
+      "year": 33
+    },
+    {
+      "name": "Scott",
+      "year": 28
+    },
+    {
+      "name": "Griffin",
+      "year": 31
+    },
+    {
+      "name": "Stephens",
+      "year": 30
+    },
+    {
+      "name": "Hawkins",
+      "year": 47
+    }
+  ],
+  "products": [
+    {
+      "car": "Dynamo"
+    },
+    {
+      "car": "Elysium"
+    },
+    {
+      "car": "Dynamics"
+    },
+    {
+      "car": "Fang"
+    },
+    {
+      "car": "Prospect"
+    }
+  ],
+  "registration": {
+    "base": [
+      {
+        "sul": {
+          "street": "Lago Woolf"
+        },
+        "north": {
+          "street": "Northland"
+        }
+      }
+    ],
+    "ceo": "Michael Corbin"
+  },
+  "desafio": "Imprimir list de usuário com idade, exe: Sou Wood tenho 33 anos, imprimir lista de carro, exe: Carro Dynamo disponível para compra. Validar os endereços da Loja e o ceo."
+}

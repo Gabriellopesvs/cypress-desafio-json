@@ -1,0 +1,7 @@
+{
+  "users": [],
+  "products": [],
+  "VIPs": [],
+
+  "desafio": "Imprima um JSON preenchendo os campos acima usando código *Usar código Java para criar o JSON apenas para impressão não é necessário criar um novo arquivo* (com 5 usuários, produtos e carros dinâmicos) users(name, last_name, id), car(name, marca), products(name, marca, valor) Os nomes podem ser fakes.  ."
+}

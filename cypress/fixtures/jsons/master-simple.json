@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "name": "Wood",
+      "year": 33,
+      "color": "red",
+      "money": 400000,
+      "class": "VIP"
+    },
+    {
+      "name": "Scott",
+      "year": 28,
+      "color": "blue",
+      "money": 500000,
+      "class": " NOT-VIP"
+    },
+    {
+      "name": "Griffin",
+      "year": 31,
+      "color": "pink",
+      "money": 600000,
+      "class": "VIP"
+    },
+    {
+      "name": "Stephens",
+      "year": 30,
+      "color": "black",
+      "money": 700000,
+      "class": "NOT-VIP"
+    },
+    {
+      "name": "Hawkins",
+      "year": 47,
+      "color": "white",
+      "money": 800000,
+      "class": "NOT-VIP"
+    }
+  ],
+  "products": [
+    {
+      "car": "Dynamo",
+      "color": "red",
+      "value": 800000
+    },
+    {
+      "car": "Elysium",
+      "color": "blue",
+      "value": 300000
+    },
+    {
+      "car": "Dynamics",
+      "color": "pink",
+      "value": 400000
+    },
+    {
+      "car": "Fang",
+      "color": "black",
+      "value": 700000
+    },
+    {
+      "car": "Prospect",
+      "color": "white",
+      "value": 600000
+    }
+  ],
+  "VIPs": [
+    {
+      "car": "Ferrari"
+    },
+    {
+      "car": "Lamborghini"
+    },
+    {
+      "car": "Jaguar"
+    }
+  ],
+  "registration": {
+    "base": [
+      {
+        "sul": {
+          "street": "Lago Woolf"
+        },
+        "north": {
+          "street": "Northland"
+        }
+      }
+    ],
+    "ceo": "Michael Corbin"
+  },
+  "desafio": "Imprimir de acordo com o valor quais carros cada usuário pode comprar ex: Eu sou Wood tenho 400000 e posso comprar um Dynamics Pink MAS, se ele for VIP Informe quais carro ele também tem direito. Fazer isso para Todos. Validar os endereços da Loja e o ceo.  E imprimir o valor final do registration, ex: O street do norte é: Northland"
+}
